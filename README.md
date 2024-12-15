@@ -20,3 +20,5 @@ Technologies Used:
 -Tailwind CSS: A utility-first CSS framework used to style the website with a responsive design.
 
 -JavaScript: (Optional) For interactive features, such as form validation or dynamic content loading.
+
+Live Link-https://shiny-rugelach-a0cc34.netlify.app/
